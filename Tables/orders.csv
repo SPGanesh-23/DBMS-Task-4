@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,total_amount,order_status
+1,1,2026-10-01,17999.00,Delivered
+2,2,2026-10-02,998.00,Delivered
+3,3,2026-10-03,1899.00,Shipped
+4,4,2026-10-04,750.00,Shipped
+5,5,2026-10-05,1299.00,Delivered
+6,6,2026-10-06,1499.00,Pending
+7,7,2026-10-07,3299.00,Delivered
+8,8,2026-10-08,398.00,Cancelled
+9,9,2026-10-09,799.00,Pending
+10,1,2026-10-10,700.00,Pending
+11,3,2026-10-11,5396.00,Delivered
+12,1,2026-10-12,3697.00,Delivered
+13,2,2026-10-13,2395.00,Shipped
+14,7,2026-10-14,3998.00,Delivered
+16,6,2026-10-16,5198.00,Shipped
